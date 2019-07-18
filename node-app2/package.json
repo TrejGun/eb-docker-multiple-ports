@@ -1,0 +1,12 @@
+{
+  "name": "app.js",
+  "version": "0.0.1",
+  "author": "Somebody <example@example.com>",
+  "description": "A simple Hello World sample application",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
